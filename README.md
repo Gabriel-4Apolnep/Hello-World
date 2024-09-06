@@ -1,5 +1,5 @@
 # Hello-World
-By gabriel
+By Gabriel Cihuyyy
 
 Hello World repository for Git tutorial
 This is an example for the Git tutorial on https://www.w3schools.com
